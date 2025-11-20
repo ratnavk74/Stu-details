@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) ! =3:
+if len(sys.argv) !=3:
     print("Using : python stu2details.py <name> <roll>")
     sys.exit(1)
 script_name = sys.argv[0]
